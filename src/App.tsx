@@ -1,6 +1,6 @@
-function App() {
+function App({ title = 'learn react' }) {
   return (
-    <h1>React</h1>
+    <h1>{title}</h1>
   );
 }
 
