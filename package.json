@@ -18,7 +18,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
+    "test": "jest",
     "eject": "react-scripts eject",
     "lint": "eslint src --max-warnings=0",
     "prepare": "husky install"
@@ -41,6 +41,7 @@
     ]
   },
   "devDependencies": {
+    "@babel/preset-typescript": "^7.14.5",
     "@typescript-eslint/eslint-plugin": "^4.28.1",
     "@typescript-eslint/parser": "^4.28.1",
     "eslint": "^7.29.0",
