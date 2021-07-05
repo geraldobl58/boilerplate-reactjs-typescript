@@ -1,25 +1,68 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`<Main /> should render the heading 1`] = `
+.c0 {
+  color: #000;
+  background-color: #fff;
+  width: 100%;
+  height: 100%;
+  padding: 3rem;
+  text-align: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.c1 {
+  width: 10rem;
+  margin-bottom: 2rem;
+}
+
+.c2 {
+  font-size: 2.5rem;
+}
+
+.c3 {
+  font-size: 2rem;
+  font-weight: 400;
+}
+
+.c4 {
+  margin-top: 3rem;
+  width: min(35rem,100%);
+}
+
 <main
-  class="sc-bdnxRM jLusns"
+  class="c0"
 >
   <img
-    class="sc-gtsrHT gAhwcl"
+    class="c1"
     src="/img/logo.svg"
   />
   <h1
-    class="sc-dlnjwi faoYDH"
+    class="c2"
   >
     Boilerplate Reactjs
   </h1>
   <h2
-    class="sc-hKFxyN iZJdrJ"
+    class="c3"
   >
     ReactJS, TypeScript, Jest, Styled Components e StoryBook
   </h2>
   <img
-    class="sc-eCApnc dGbtpA"
+    class="c4"
     src="/img/illustration.jpg"
   />
 </main>
