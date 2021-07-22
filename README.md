@@ -1,3 +1,11 @@
+## **Executando a partir do boilerplate**
+
+To run the project with the boilerplate run the following command:
+
+```
+  yarn create react-app -e  https://github.com/geraldobl58/boilerplate-reactjs (nameproject)
+```
+
 ## What is inside?
 
 This project uses lot of stuff as:
