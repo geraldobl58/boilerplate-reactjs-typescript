@@ -1,4 +1,4 @@
-## **Executando a partir do boilerplate**
+## **Running from boilerplate**
 
 To run the project with the boilerplate run the following command:
 
